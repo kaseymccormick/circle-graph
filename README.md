@@ -6,3 +6,5 @@ To show planning methods and progress from start to finish I'll be creating tick
 ## MVP
 ## Phase 1
 ## Phase 2
+# Resources
+- http://codepen.io/knitevision1/pen/NPMWwo
